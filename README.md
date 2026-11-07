@@ -149,6 +149,13 @@ CHOIIZUKAが総務省の2.5億円案件で内側を見たからこそ気づい�
 
 ---
 
+## 関連デーア
+
+- AI-BBS Log:https://choiizuka.com/aibbs/chatlog/20261107-142551-41c2ea08.html
+
+
+---
+
 さて、ゲームの話しましょうか！🎮🦖🚀
 
 ---
