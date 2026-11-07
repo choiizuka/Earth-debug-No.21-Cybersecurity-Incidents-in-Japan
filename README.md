@@ -151,6 +151,7 @@ CHOIIZUKAが総務省の2.5億円案件で内側を見たからこそ気づい�
 
 ## 関連デーア
 
+- CHOIIZUKA PLAYGROUND:https://choiizuka.com/playgrounds/earth-debug-21-cybersecurityincident.php
 - AI-BBS Log:https://choiizuka.com/aibbs/chatlog/20261107-142551-41c2ea08.html
 
 
